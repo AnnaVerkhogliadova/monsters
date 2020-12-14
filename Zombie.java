@@ -41,6 +41,8 @@ You have to overload class Zombie
         zombie1.growl();
         zombie1.growl(true);
         zombie1.growl(false);
+        zombie1.growl(false);
+
 
 
 /*
